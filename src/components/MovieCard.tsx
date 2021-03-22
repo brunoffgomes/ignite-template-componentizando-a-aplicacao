@@ -1,6 +1,7 @@
 import { Star, Clock } from 'react-feather';
 
 import '../styles/movie-card.scss';
+import React from 'react';
 
 interface MovieCardProps {
   title: string;
